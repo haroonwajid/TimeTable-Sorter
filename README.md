@@ -31,3 +31,4 @@ Ensure your timetable CSV files are uploaded to the /content/ directory in your 
 Ensure the CSV files are correctly formatted and uploaded to the /content/ directory.
 The random colors are generated dynamically and are not persistent between script runs.
 
+![Output](images/your-image.png)
