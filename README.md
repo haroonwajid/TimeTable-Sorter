@@ -27,8 +27,7 @@ Ensure your timetable CSV files are uploaded to the /content/ directory in your 
    - Department Codes: Input each department code one by one as prompted.
    - The script will filter the timetable data based on your inputs and display the results in an HTML table with randomly assigned colors for each course.
 
-Notes
+## Notes
 Ensure the CSV files are correctly formatted and uploaded to the /content/ directory.
 The random colors are generated dynamically and are not persistent between script runs.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
