@@ -1,4 +1,4 @@
-def addition():
+ def addition():
     first = int(input("enter teh first number: "))
     second = int(input("enter the second number: "))
     
