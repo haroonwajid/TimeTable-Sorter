@@ -3,7 +3,7 @@ def addition():
     second = int(input("enter the second number: "))
     
     sum= first+ second
-    return sum 
+    return sum  
 
 
 print(addition())
