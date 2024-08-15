@@ -6,7 +6,7 @@ This Python script processes and filters timetable data from multiple CSV files.
 
 # Features
 - Load Data: Reads and combines timetable data from multiple CSV files located in the /content/ directory.
-- Filter Data: Filters data based on user-provided course codes and department codes.
+- Filter Data: Filters data based on user-provided course codes and department codes. 
 - Visual Display: Displays filtered results in an HTML table with random colors assigned to each course code.
 Files
 - CSV files containing timetable data (must be uploaded to the /content/ directory in Google Colab).
