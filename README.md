@@ -32,3 +32,4 @@ Ensure the CSV files are correctly formatted and uploaded to the /content/ direc
 The random colors are generated dynamically and are not persistent between script runs.
 
 ![Output](images/img1.png)
+![Output](images/img2.png)
